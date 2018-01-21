@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Xen's Quality Crusher</name>
+	<author>Xen</author>
+	<url></url>
+	<targetVersion>0.18.0000</targetVersion>
+	<description>A lightweight harmony patch to fix quality to set values</description>
+</ModMetaData>
